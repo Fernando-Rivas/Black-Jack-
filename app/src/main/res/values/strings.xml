@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidBJack</string>
+    <string name="plantar">Me Planto</string>
+    <string name="pedir">Otra</string>
+    <string name="subir">Apostar</string>
+    <string name="aputxt">Apostar$</string>
+    <string name="billetera">Billetera: 1000$</string>
+    <string name="save">Guardar</string>
+    <string name="title_activity_highscores">highscores</string>
+
+
+</resources>

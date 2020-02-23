@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "44030525280",
+    "firebase_url": "https://blackjack-highscore.firebaseio.com",
+    "project_id": "blackjack-highscore",
+    "storage_bucket": "blackjack-highscore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44030525280:android:db53cdecd8fc0333ac6805",
+        "android_client_info": {
+          "package_name": "com.examen.androidbjack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44030525280-le1ba44na7hbqfo7rasn1nvb5jr7o8p8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.examen.androidbjack",
+            "certificate_hash": "1ba0ed0a3dbb32d7107d1ded79645345b7a8b611"
+          }
+        },
+        {
+          "client_id": "44030525280-vjshl1nrdl5e66nj9hcc8mk11fr3n2tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmypwv8pn-p0c6wsygyOdgeqZVAtA6HRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44030525280-vjshl1nrdl5e66nj9hcc8mk11fr3n2tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

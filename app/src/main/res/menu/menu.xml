@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="Ver puntuaciones"
+        android:id="@+id/VerPuntuaciones"
+        android:icon="@drawable/c7"
+        app:showAsAction="never"/>
+    <item
+        android:title="Guardar tu Score"
+        android:id="@+id/Save"
+        android:icon="@drawable/c7"
+        app:showAsAction="never"/>
+
+
+</menu>
